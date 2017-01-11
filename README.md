@@ -1,0 +1,1 @@
+Testing golang to Postgresql all functionality including CRUD and saving BLOB data (Binary)
