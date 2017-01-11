@@ -25,7 +25,7 @@ const (
 	DB_PORT     = "5432"
 )
 
-// hello world, the web server
+// hello world, the web server test
 func HelloServer(w http.ResponseWriter, req *http.Request) {
 	io.WriteString(w, "hello, world!\n")
 }
